@@ -6,3 +6,7 @@ main columns :
 - audiance_rating
 - audiance_status
 
+* Based on Heatmap Graph*:
+- choice high correlations(|value| > 0.7) to identify features that might br redundant in ML models 
+
+
